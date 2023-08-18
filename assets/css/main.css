@@ -166,6 +166,8 @@ em, i {
 
 p {
     margin: 0 0 2em 0;
+    font-size: 120%;
+    color: black;
 }
 
 h1 {
@@ -3210,7 +3212,7 @@ body.is-menu-visible #menu .close {
     margin-top: 5em;
     list-style: none;
     font-size: 0.8em;
-    color: rgba(88, 88, 88, 0.5);
+    color: rgba(88, 88, 88, 5);
 }
 
 #footer > .inner .copyright a {
