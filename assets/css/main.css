@@ -153,7 +153,7 @@ a {
 
 a:hover {
     border-bottom-color: transparent;
-    color: white !important;
+    color: darkblue !important;
 }
 
 strong, b {
