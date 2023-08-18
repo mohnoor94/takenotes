@@ -231,9 +231,9 @@ h6 {
 
 @media screen and (max-width: 980px) {
 
-    h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {
-        display: none;
-    }
+    /*h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {*/
+    /*    display: none;*/
+    /*}*/
 
 }
 
