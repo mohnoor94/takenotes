@@ -1897,7 +1897,8 @@ ul.alt {
 
 ul.alt li {
     /*border-top: solid 1px #c9c9c9;*/
-    border-top: solid 1px white;
+    border-bottom: dotted 1px white;
+    border-bottom-right-radius: 50px;
     padding: 0.5em 0;
 }
 
@@ -3175,7 +3176,9 @@ body.is-menu-visible #menu .close {
 
 #footer {
     padding: 5em 0 6em 0;
-    background-color: #f6f6f6;
+    /*background-color: #f6f6f6;*/
+    border-top-right-radius: 50px;
+    border-top: 3px dotted rgba(255, 255, 255, 0.4);
 }
 
 #footer > .inner {
@@ -3212,8 +3215,9 @@ body.is-menu-visible #menu .close {
     padding: 0;
     margin-top: 5em;
     list-style: none;
-    font-size: 0.8em;
-    color: rgba(88, 88, 88, 5);
+    font-size: 1.1em;
+    /*color: rgba(88, 88, 88, 5);*/
+    color: black;
 }
 
 #footer > .inner .copyright a {
