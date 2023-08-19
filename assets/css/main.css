@@ -3216,7 +3216,7 @@ body.is-menu-visible #menu .close {
     margin-top: 5em;
     list-style: none;
     font-size: 1.1em;
-    /*color: rgba(88, 88, 88, 5);*/
+    color: rgba(88, 88, 88, 5);
     color: black;
 }
 
