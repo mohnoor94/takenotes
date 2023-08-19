@@ -1898,7 +1898,7 @@ ul.alt {
 ul.alt li {
     /*border-top: solid 1px #c9c9c9;*/
     border-bottom: dotted 1px white;
-    border-bottom-right-radius: 50px;
+    border-bottom-right-radius: 25px;
     padding: 0.5em 0;
 }
 
