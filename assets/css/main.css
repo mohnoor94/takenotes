@@ -3351,10 +3351,8 @@ body.is-menu-visible #menu .close {
     background: linear-gradient(135deg, #ffffff 26%, #5AADAB 74%);
 }
 
-.noor-customizable {
-    /*background: -webkit-linear-gradient(#24bbb3, #96466f);*/
-    /*-webkit-background-clip: text;*/
-    /*-webkit-text-fill-color: transparent;*/
+.cry-wrapper {
+    background: linear-gradient(135deg, #ffffff 26%, #DCDCDC 74%);
 }
 
 .rainbow-text {
